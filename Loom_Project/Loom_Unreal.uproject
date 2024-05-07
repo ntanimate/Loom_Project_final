@@ -33,6 +33,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "HairStrands",
+			"Enabled": true
 		}
 	]
 }
